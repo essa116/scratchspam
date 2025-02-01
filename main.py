@@ -191,7 +191,7 @@ while True:
     time.sleep(2)
     print(f"posted {sigmacounter} comments")
     sigmacounter = 0
-    time.sleep(13)
+    time.sleep(REST)
 
 time.sleep(10)
 print(sigmacounter)
