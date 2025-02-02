@@ -156,10 +156,7 @@ class ScratchSession:
         # print(self._headers)
         print(request.status_code)
 
-
-
-with open("listthing.txt") as f:
-    MY_MESSAGE = [MY_MESSAGE]
+MY_MESSAGE = [MY_MESSAGE]
 
 randomchars = "abcdefghijklmnopqrstuvwxyz"
 sigmacounter = 0
