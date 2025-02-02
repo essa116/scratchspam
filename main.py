@@ -5,29 +5,32 @@ import json
 import re
 import requests
 
-#code by essa
-#dont forget subscribe to @essamewing116 on youtube
+# Code by Essa.
+# Don't forget subscribe to @essamewing116 on Youtube!
 
-#YOU CAN CREATE ACCOUNT AND USE IT FOR SPAMMING USE THIS SCRIPT
+# WARNING!!! Use a VPN or proxy before running this script or your IP will be banned!!!
 
-#YOUR MESSAGE HERE
-MY_MESSAGE = "your message here"
+# You can use an account for spamming with this script.
 
-#IMPORANT INPUT YOUR AUTH HERE
+# Input your message here.
+MY_MESSAGE = "Your message here"
+
+# IMPORTANT! Include your account details here.
 MY_AUTH = {
-    "username": "your username here",
-    "password": "your password here"
+    "username": "Your username here",
+    "password": "Your password here"
 }
 
-#IMPORTANT use studio id or username or project here sample: 6446649, griffpatch, 555565565
-ID_OR_USERNAME = "studio id, profile, project id here , input mode bellow" 
-#IMPORTANT use only: studio, profile, project  .. on the MODE variable
-MODE = "studio" #avaible: studio, profile, project 
-#IMPORTANT use 32 for new scratch account and 15 for scratcher account 
-REST = 32  #avaible: 15 scratcher, 32 new scratcher
+# IMPORTANT! Put the ID/username of the place you want to spam here. Examples: "6446649", "griffpatch", "555565565"
+ID_OR_USERNAME = "Studio ID, username, or project ID here." 
 
-#enjoy the spam script!
-#use vpn before run this script or your ip will be banned
+# IMPORTANT! Use only: "studio", "profile", or "project" for the MODE variable.
+MODE = "studio" # Use only "studio", "profile", or "project".
+
+# IMPORTANT! Use 32 for an account with the "New Scratcher" rank and 15 for an account with the "Scratcher" rank. 
+REST = 32  # 15 for Scratcher, 32 for New Scratcher.
+
+# Enjoy the spamming script!
 
 
 
